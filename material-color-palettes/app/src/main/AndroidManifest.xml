@@ -1,0 +1,13 @@
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="material.color.palettes">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/lib_name"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@android:style/Theme.DeviceDefault">
+
+    </application>
+
+</manifest>
