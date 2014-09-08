@@ -10,3 +10,4 @@ Provides resource and class access to the [Material Colors](https://www.google.c
 - Class fields
 - Complementary colors
 - Color flattener
+- Sample
